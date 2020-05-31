@@ -1,0 +1,30 @@
+{
+  "country": {
+    "0": "united_states",
+    "1": "united_states",
+    "2": "singapore",
+    "3": "united_states",
+    "4": "singapore"
+  },
+  "age": {
+    "0": 28,
+    "1": 30,
+    "2": 33,
+    "3": 24,
+    "4": 39
+  },
+  "subscriber_type": {
+    "0": "aavail_premium",
+    "1": "aavail_basic",
+    "2": "aavail_basic",
+    "3": "aavail_basic",
+    "4": "aavail_unlimited"
+  },
+  "num_streams": {
+    "0": 9,
+    "1": 19,
+    "2": 14,
+    "3": 33,
+    "4": 20
+  }
+}
